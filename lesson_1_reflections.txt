@@ -22,14 +22,11 @@ docs does?
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?
 
-    When multiple files are related to each other, saving multiple files in one commit
-    saves users time & effort in using the system. You don't have to try to remember
-    which were saved and which were not saved.
+    When multiple files are related to each other, saving multiple files in one commit saves users time & effort in using the system. You don't have to try to remember which were saved and which were not saved.
 
 How can you use the commands git log and git diff to view the history of files?
 
-    I can use git log to see the commit history, then select two different commits and compare
-    those using git diff.
+    I can use git log to see the commit history, then select two different commits and compare those using git diff.
 
 
 How might using version control make you more confident to make changes that
