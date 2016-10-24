@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualize the branch structure?
   Diagrams show all the branches, which give me a better idea what has been done thus far, especially if the branch names are descriptive.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+  After merging, there's only one branch (master), which includes all the changes made in the different branches. It is visualized in the manner that it is to indicate that a branch was merged into the master.
