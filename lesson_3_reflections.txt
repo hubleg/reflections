@@ -21,7 +21,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    One could decide to mimic git/github behaviour by organizing different folders as git-like repositories and agreeing a way of working. Or, one could use svn or whatever other code-sharing repositories there are. Either way, it would be much harder to avoid conflict/bugs and way more time consuming to work with other solutions when compared to git. It might be easier to share your work with others without using git/github, but tracking the changes/staying on top of changes would be harder.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
