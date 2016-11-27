@@ -26,4 +26,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I'm experimenting on something completely different, it's safer to branch
+    rather than work directly in master. If I'm just fixing a bug or making a small
+    improvement on existing feature, I would work on master. Multiple people working on branches makes it easier to stay on top of proposed changes. Working directly on master requires less work as there's no merging. 
